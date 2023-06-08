@@ -13,3 +13,4 @@ pygaljs
 scikit-image
 torch
 torchvision
+matplotlib
