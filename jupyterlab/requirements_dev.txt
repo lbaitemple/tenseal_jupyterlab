@@ -9,9 +9,9 @@ pytest-cov
 pytest-benchmark[histogram]
 setuptools
 pygal
+pandas
 pygaljs
 scikit-image
 torch
 torchvision
 matplotlib
-torchsummary
